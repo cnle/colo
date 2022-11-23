@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://colo.love/jc</id>
+    <title>氪金币中文教程网</title>
+    <updated>2022-11-23T08:14:41.379Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://colo.love/jc"/>
+    <link rel="self" href="https://colo.love/jc/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://colo.love/jc/images/avatar.png</logo>
+    <icon>https://colo.love/jc/favicon.ico</icon>
+    <rights>All rights reserved 2022, 氪金币中文教程网</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用Windows挖氪金币？]]></title>
+        <id>https://colo.love/jc/cai-ce-e/</id>
+        <link href="https://colo.love/jc/cai-ce-e/">
+        </link>
+        <updated>2022-11-23T05:37:47.000Z</updated>
+        <content type="html"><![CDATA[<p>首要任务是下载挖矿软件，虽然有很多选择可供选择，但我们推荐 XMRig。<br>
+在这里下载 <a href="https://www.123pan.com/s/mOKuVv-tnrG">Xmrig</a><br>
+​​<br>
+​​<br>
+Windows 用户请注意您的防病毒软件可能会对挖矿软件进行隔离，请自行添加白名单或卸载杀毒软件!<br>
+​</p>
+<h2 id="配置">配置</h2>
+<p>1.解压挖矿程序后打开 XKR.CMD， 修改红色部分，蓝色部分（矿池）可根据情况修改。</p>
+<p>xmrig.exe -o <font color="#000066">124.222.29.126:8888 </font>-a cryptonight-pico/trtl -u <font color="#660000">钱包地址</font> -p @exon -t 4<br>
+pause</p>
+<p>没有 XKR 地址？快速生成一个<a href="https://colo.love/wallet">纸钱包</a>（不要忘记保存你的助记符种子）。<br>
+<img src="./jc/zqb.png=540x350" alt="正常挖矿" loading="lazy"><br>
+运行XKR.cmd ，即可开始挖矿。<br>
+<img src="./jc/xm.png=540x350" alt="正常挖矿" loading="lazy"><br>
+恭喜！你在挖矿！</p>
+<h2 id="中国矿池列表">中国矿池列表</h2>
+<p>182.43.80.118:8888<br>
+182.43.36.18:8888<br>
+115.239.210.250:8888<br>
+124.222.29.126:8888</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://colo.love/jc/hello-gridea/</id>
+        <link href="https://colo.love/jc/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
